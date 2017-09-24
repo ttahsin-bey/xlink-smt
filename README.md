@@ -1,2 +1,2 @@
 # xlink-smt
-Hardware compatible to xlink-project of Henning Bekel: http://henning-bekel.de/xlink/
+Hardware compatible to xlink-project from Henning Bekel: http://henning-bekel.de/xlink/
